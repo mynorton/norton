@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://norton-norton.readthedocs-hosted.com/
